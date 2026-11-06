@@ -1,0 +1,22 @@
+{
+  "wheel_id": 789,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-117",
+  "project": "retaining-wall-builders-toowoomba-beginner-guide-2f8e76ec1a8df1",
+  "parent_t1_ref": "retainingwallstoowoomba-158",
+  "node_role": "feeder",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining wall builders toowoomba beginner guide",
+  "intended_url": "https://sitesau.github.io/retainingwallstoowoomba-117/",
+  "tier": "T2",
+  "writeback_nonce": "8587fdb12288c5c8",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/retaining-wall-builders-toowoomba-what-to-expect-9bb4785a92cf0b/",
+      "anchor": "Retaining Wall Builders Toowoomba What to Expect: 2026 Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
